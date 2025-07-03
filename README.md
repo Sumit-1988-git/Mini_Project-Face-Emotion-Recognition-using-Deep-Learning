@@ -1,4 +1,4 @@
-**Emotion Recognition Using CNN**
+**Face Emotion Recognition Using CNN**
 
 This repository contains an implementation of a Convolutional Neural Network (CNN) for classifying facial emotions. The model is trained on the FER2013 dataset, which classifies images into seven emotion categories:
 
