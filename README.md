@@ -76,7 +76,9 @@ model = load_model('emotion_model.h5')
 
 ⚠️ **Note**
 
-The steps outlined above represent one way to achieve a reasonable validation accuracy for this model. You can further improve the performance by experimenting with:
+* The model is trained for grayscale images.
+
+* The steps outlined above represent one way to achieve a reasonable validation accuracy for this model. You can further improve the performance by experimenting with:
 
 **Data Augmentation**: Increase the variety and quantity of training data to improve generalization.
 
